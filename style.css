@@ -191,6 +191,10 @@ button {
 
 
 @media only screen and (max-width: 480px) {
+    body {
+        overflow-x: hidden;
+        width: 100%;
+    }
     .carousel-item img {
         height: 450px;
     }
@@ -206,4 +210,5 @@ button {
    .work-heading h1 {
        padding-top: 70px;
    }
+
 }
