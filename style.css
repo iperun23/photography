@@ -174,7 +174,7 @@ button {
     border-radius: 50%;
 }
 .go-top i {
-    font-size: 50px;
+    font-size: 45px;
   }
 .go-top:hover {
 	background-color:rgba(0,0,0, .3);
@@ -185,6 +185,7 @@ button {
     .carousel-item img {
         height: 550px;
     }
+
    
 }
 
@@ -193,5 +194,14 @@ button {
     .carousel-item img {
         height: 450px;
     }
-   
+   html, body {
+    overflow-x: hidden !important;
+   }
+
+   .about-container {
+       padding: 25px 0;
+   }
+   .about-container p {
+       padding-top: 25px;
+   }
 }
