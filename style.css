@@ -196,8 +196,10 @@ button {
     }
    html, body {
     overflow-x: hidden !important;
-   }
-
+  }
+  body {
+    position: relative;
+  }
    .about-container {
        padding: 25px 0;
    }
