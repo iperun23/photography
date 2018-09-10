@@ -89,7 +89,9 @@ button {
 .s-img h3 {
     font-size: 21px;
 }
-
+.s-img:hover {
+    opacity: 0.75;
+}
 .work-section {
     padding-bottom: 50px;
 }
@@ -211,11 +213,21 @@ button {
    .about-container p {
     padding: 30px 20px 0px 40px;
    }
-   .carousel {
-    display:none !important;
-   }
-   .work-heading h1 {
-       padding-top: 90px;
-   }
 
+}
+
+
+
+/*---------- WEDDINGS HTML PAGE CSS ---------- */
+
+.w-img a {
+    text-decoration: none;
+    
+}
+.w-img img{
+    box-shadow: 2px 2px 6px rgba(0,0,0,.6);
+}
+
+.w-img:hover {
+    opacity: 0.75;
 }
