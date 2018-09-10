@@ -147,7 +147,10 @@ button {
     width: 100%;
     background-color: rgba(178, 34, 34, 0);
 }
-
+.btn-outline-blue:hover {
+    background-color: #46b8da;
+    border: 1px solid black;
+}
 .contact-p p{
     padding-top: 50px;
 }
