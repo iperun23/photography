@@ -78,7 +78,9 @@ button {
 }
 
 /*---------- Work---------- */
-
+.work-heading {
+    padding: 50px 0;
+}
 
 .s-img {
     height: 310px;
@@ -149,7 +151,9 @@ button {
 .contact-p p{
     padding-top: 50px;
 }
-
+.heading {
+    font-weight: 900;
+}
 /*---------- footer-section---------- */
 
 
