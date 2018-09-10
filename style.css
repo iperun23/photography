@@ -126,6 +126,9 @@ button {
     line-height: 150%;
 }
 
+#about {
+  padding-top: 50px;
+}
 
 /*---------- Contact-section---------- */
 .contact-container {
@@ -218,7 +221,7 @@ button {
 
 
 
-/*---------- WEDDINGS HTML PAGE CSS ---------- */
+/*---------- Other HTML PAGES CSS ---------- */
 
 .w-img a {
     text-decoration: none;
